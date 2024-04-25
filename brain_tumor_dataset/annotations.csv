@@ -1,0 +1,254 @@
+filepaths,labels
+brain_tumor_dataset/no/30 no.jpg,no
+brain_tumor_dataset/no/22 no.jpg,no
+brain_tumor_dataset/no/41 no.jpg,no
+brain_tumor_dataset/no/14 no.jpg,no
+brain_tumor_dataset/no/no 10.jpg,no
+brain_tumor_dataset/no/18 no.jpg,no
+brain_tumor_dataset/no/no 9.png,no
+brain_tumor_dataset/no/no 7.jpeg,no
+brain_tumor_dataset/no/no 8.jpg,no
+brain_tumor_dataset/no/no.jpg,no
+brain_tumor_dataset/no/3 no.jpg,no
+brain_tumor_dataset/no/43 no.jpg,no
+brain_tumor_dataset/no/20 no.jpg,no
+brain_tumor_dataset/no/32 no.jpg,no
+brain_tumor_dataset/no/2 no.jpeg,no
+brain_tumor_dataset/no/N15.jpg,no
+brain_tumor_dataset/no/no 99.jpg,no
+brain_tumor_dataset/no/no 98.jpg,no
+brain_tumor_dataset/no/No11.jpg,no
+brain_tumor_dataset/no/7 no.jpg,no
+brain_tumor_dataset/no/12 no.jpg,no
+brain_tumor_dataset/no/No13.jpg,no
+brain_tumor_dataset/no/44no.jpg,no
+brain_tumor_dataset/no/N16.jpg,no
+brain_tumor_dataset/no/N17.jpg,no
+brain_tumor_dataset/no/28 no.jpg,no
+brain_tumor_dataset/no/36 no.jpg,no
+brain_tumor_dataset/no/No12.jpg,no
+brain_tumor_dataset/no/47 no.jpg,no
+brain_tumor_dataset/no/24 no.jpg,no
+brain_tumor_dataset/no/No16.jpg,no
+brain_tumor_dataset/no/10 no.jpg,no
+brain_tumor_dataset/no/26 no.jpg,no
+brain_tumor_dataset/no/45 no.jpg,no
+brain_tumor_dataset/no/no 923.jpg,no
+brain_tumor_dataset/no/38 no.jpg,no
+brain_tumor_dataset/no/No17.jpg,no
+brain_tumor_dataset/no/49 no.jpg,no
+brain_tumor_dataset/no/34 no.jpg,no
+brain_tumor_dataset/no/1 no.jpeg,no
+brain_tumor_dataset/no/no 100.jpg,no
+brain_tumor_dataset/no/No15.jpg,no
+brain_tumor_dataset/no/5 no.jpg,no
+brain_tumor_dataset/no/N11.jpg,no
+brain_tumor_dataset/no/no 89.jpg,no
+brain_tumor_dataset/no/No14.jpg,no
+brain_tumor_dataset/no/9 no.jpg,no
+brain_tumor_dataset/no/No19.jpg,no
+brain_tumor_dataset/no/no 90.jpg,no
+brain_tumor_dataset/no/N20.JPG,no
+brain_tumor_dataset/no/N21.jpg,no
+brain_tumor_dataset/no/No18.jpg,no
+brain_tumor_dataset/no/15 no.jpg,no
+brain_tumor_dataset/no/19 no.jpg,no
+brain_tumor_dataset/no/N22.JPG,no
+brain_tumor_dataset/no/no 92.jpg,no
+brain_tumor_dataset/no/31 no.jpg,no
+brain_tumor_dataset/no/40 no.jpg,no
+brain_tumor_dataset/no/23 no.jpg,no
+brain_tumor_dataset/no/17 no.jpg,no
+brain_tumor_dataset/no/N26.JPG,no
+brain_tumor_dataset/no/no 96.jpg,no
+brain_tumor_dataset/no/no 97.jpg,no
+brain_tumor_dataset/no/21 no.jpg,no
+brain_tumor_dataset/no/42 no.jpg,no
+brain_tumor_dataset/no/No22.jpg,no
+brain_tumor_dataset/no/33 no.jpg,no
+brain_tumor_dataset/no/50 no.jpg,no
+brain_tumor_dataset/no/No20.jpg,no
+brain_tumor_dataset/no/no 95.jpg,no
+brain_tumor_dataset/no/N19.JPG,no
+brain_tumor_dataset/no/no 94.jpg,no
+brain_tumor_dataset/no/No21.jpg,no
+brain_tumor_dataset/no/37 no.jpg,no
+brain_tumor_dataset/no/N6.jpg,no
+brain_tumor_dataset/no/29 no.jpg,no
+brain_tumor_dataset/no/25 no.jpg,no
+brain_tumor_dataset/no/no 91.jpeg,no
+brain_tumor_dataset/no/no 3.jpg,no
+brain_tumor_dataset/no/46 no.jpg,no
+brain_tumor_dataset/no/no 2.jpg,no
+brain_tumor_dataset/no/13 no.jpg,no
+brain_tumor_dataset/no/N5.jpg,no
+brain_tumor_dataset/no/6 no.jpg,no
+brain_tumor_dataset/no/no 1.jpg,no
+brain_tumor_dataset/no/no 5.jpeg,no
+brain_tumor_dataset/no/4 no.jpg,no
+brain_tumor_dataset/no/8 no.jpg,no
+brain_tumor_dataset/no/no 4.jpg,no
+brain_tumor_dataset/no/N1.JPG,no
+brain_tumor_dataset/no/39 no.jpg,no
+brain_tumor_dataset/no/N3.jpg,no
+brain_tumor_dataset/no/27 no.jpg,no
+brain_tumor_dataset/no/35 no.jpg,no
+brain_tumor_dataset/no/no 6.jpg,no
+brain_tumor_dataset/no/48 no.jpeg,no
+brain_tumor_dataset/no/11 no.jpg,no
+brain_tumor_dataset/no/N2.JPG,no
+brain_tumor_dataset/yes/Y157.JPG,yes
+brain_tumor_dataset/yes/Y6.jpg,yes
+brain_tumor_dataset/yes/Y194.jpg,yes
+brain_tumor_dataset/yes/Y180.jpg,yes
+brain_tumor_dataset/yes/Y90.jpg,yes
+brain_tumor_dataset/yes/Y47.JPG,yes
+brain_tumor_dataset/yes/Y53.jpg,yes
+brain_tumor_dataset/yes/Y52.jpg,yes
+brain_tumor_dataset/yes/Y46.jpg,yes
+brain_tumor_dataset/yes/Y91.jpg,yes
+brain_tumor_dataset/yes/Y85.JPG,yes
+brain_tumor_dataset/yes/Y181.jpg,yes
+brain_tumor_dataset/yes/Y195.JPG,yes
+brain_tumor_dataset/yes/Y7.jpg,yes
+brain_tumor_dataset/yes/Y156.JPG,yes
+brain_tumor_dataset/yes/Y168.jpg,yes
+brain_tumor_dataset/yes/Y154.jpg,yes
+brain_tumor_dataset/yes/Y183.jpg,yes
+brain_tumor_dataset/yes/Y78.jpg,yes
+brain_tumor_dataset/yes/Y50.JPG,yes
+brain_tumor_dataset/yes/Y44.JPG,yes
+brain_tumor_dataset/yes/Y45.JPG,yes
+brain_tumor_dataset/yes/Y51.jpg,yes
+brain_tumor_dataset/yes/Y79.jpg,yes
+brain_tumor_dataset/yes/Y86.JPG,yes
+brain_tumor_dataset/yes/Y92.jpg,yes
+brain_tumor_dataset/yes/Y92.png,yes
+brain_tumor_dataset/yes/Y182.JPG,yes
+brain_tumor_dataset/yes/Y155.JPG,yes
+brain_tumor_dataset/yes/Y4.jpg,yes
+brain_tumor_dataset/yes/Y169.jpg,yes
+brain_tumor_dataset/yes/Y186.jpg,yes
+brain_tumor_dataset/yes/Y192.JPG,yes
+brain_tumor_dataset/yes/Y96.jpg,yes
+brain_tumor_dataset/yes/Y82.jpg,yes
+brain_tumor_dataset/yes/Y55.jpg,yes
+brain_tumor_dataset/yes/Y41.jpg,yes
+brain_tumor_dataset/yes/Y69.jpg,yes
+brain_tumor_dataset/yes/Y40.JPG,yes
+brain_tumor_dataset/yes/Y54.jpg,yes
+brain_tumor_dataset/yes/Y97.JPG,yes
+brain_tumor_dataset/yes/Y193.JPG,yes
+brain_tumor_dataset/yes/Y187.jpg,yes
+brain_tumor_dataset/yes/Y1.jpg,yes
+brain_tumor_dataset/yes/Y3.jpg,yes
+brain_tumor_dataset/yes/Y146.JPG,yes
+brain_tumor_dataset/yes/Y185.jpg,yes
+brain_tumor_dataset/yes/Y81.jpg,yes
+brain_tumor_dataset/yes/Y95.jpg,yes
+brain_tumor_dataset/yes/Y42.jpg,yes
+brain_tumor_dataset/yes/Y56.jpg,yes
+brain_tumor_dataset/yes/Y184.JPG,yes
+brain_tumor_dataset/yes/Y2.jpg,yes
+brain_tumor_dataset/yes/Y147.JPG,yes
+brain_tumor_dataset/yes/Y153.jpg,yes
+brain_tumor_dataset/yes/Y108.jpg,yes
+brain_tumor_dataset/yes/Y120.JPG,yes
+brain_tumor_dataset/yes/Y242.JPG,yes
+brain_tumor_dataset/yes/Y256.JPG,yes
+brain_tumor_dataset/yes/Y18.JPG,yes
+brain_tumor_dataset/yes/Y24.jpg,yes
+brain_tumor_dataset/yes/Y30.jpg,yes
+brain_tumor_dataset/yes/Y31.jpg,yes
+brain_tumor_dataset/yes/Y25.jpg,yes
+brain_tumor_dataset/yes/Y19.JPG,yes
+brain_tumor_dataset/yes/Y257.jpg,yes
+brain_tumor_dataset/yes/Y243.JPG,yes
+brain_tumor_dataset/yes/Y109.JPG,yes
+brain_tumor_dataset/yes/Y255.JPG,yes
+brain_tumor_dataset/yes/Y33.jpg,yes
+brain_tumor_dataset/yes/Y27.jpg,yes
+brain_tumor_dataset/yes/Y26.jpg,yes
+brain_tumor_dataset/yes/Y32.jpg,yes
+brain_tumor_dataset/yes/Y254.jpg,yes
+brain_tumor_dataset/yes/Y250.jpg,yes
+brain_tumor_dataset/yes/Y244.JPG,yes
+brain_tumor_dataset/yes/Y36.JPG,yes
+brain_tumor_dataset/yes/Y22.jpg,yes
+brain_tumor_dataset/yes/Y23.JPG,yes
+brain_tumor_dataset/yes/Y37.jpg,yes
+brain_tumor_dataset/yes/Y245.jpg,yes
+brain_tumor_dataset/yes/Y251.JPG,yes
+brain_tumor_dataset/yes/Y247.JPG,yes
+brain_tumor_dataset/yes/Y253.JPG,yes
+brain_tumor_dataset/yes/Y21.jpg,yes
+brain_tumor_dataset/yes/Y35.jpg,yes
+brain_tumor_dataset/yes/Y34.jpg,yes
+brain_tumor_dataset/yes/Y20.jpg,yes
+brain_tumor_dataset/yes/Y252.jpg,yes
+brain_tumor_dataset/yes/Y246.JPG,yes
+brain_tumor_dataset/yes/Y115.JPG,yes
+brain_tumor_dataset/yes/Y101.jpg,yes
+brain_tumor_dataset/yes/Y39.jpg,yes
+brain_tumor_dataset/yes/Y11.jpg,yes
+brain_tumor_dataset/yes/Y10.jpg,yes
+brain_tumor_dataset/yes/Y38.jpg,yes
+brain_tumor_dataset/yes/Y100.JPG,yes
+brain_tumor_dataset/yes/Y114.JPG,yes
+brain_tumor_dataset/yes/Y102.jpg,yes
+brain_tumor_dataset/yes/Y116.JPG,yes
+brain_tumor_dataset/yes/Y248.JPG,yes
+brain_tumor_dataset/yes/Y12.jpg,yes
+brain_tumor_dataset/yes/Y13.jpg,yes
+brain_tumor_dataset/yes/Y249.JPG,yes
+brain_tumor_dataset/yes/Y117.JPG,yes
+brain_tumor_dataset/yes/Y103.jpg,yes
+brain_tumor_dataset/yes/Y107.jpg,yes
+brain_tumor_dataset/yes/Y113.JPG,yes
+brain_tumor_dataset/yes/Y259.JPG,yes
+brain_tumor_dataset/yes/Y17.jpg,yes
+brain_tumor_dataset/yes/Y16.JPG,yes
+brain_tumor_dataset/yes/Y258.JPG,yes
+brain_tumor_dataset/yes/Y112.JPG,yes
+brain_tumor_dataset/yes/Y106.jpg,yes
+brain_tumor_dataset/yes/Y104.jpg,yes
+brain_tumor_dataset/yes/Y14.jpg,yes
+brain_tumor_dataset/yes/Y28.jpg,yes
+brain_tumor_dataset/yes/Y29.jpg,yes
+brain_tumor_dataset/yes/Y15.jpg,yes
+brain_tumor_dataset/yes/Y105.jpg,yes
+brain_tumor_dataset/yes/Y111.JPG,yes
+brain_tumor_dataset/yes/Y162.jpg,yes
+brain_tumor_dataset/yes/Y99.JPG,yes
+brain_tumor_dataset/yes/Y66.JPG,yes
+brain_tumor_dataset/yes/Y73.jpg,yes
+brain_tumor_dataset/yes/Y67.JPG,yes
+brain_tumor_dataset/yes/Y98.JPG,yes
+brain_tumor_dataset/yes/Y188.jpg,yes
+brain_tumor_dataset/yes/Y163.JPG,yes
+brain_tumor_dataset/yes/Y161.JPG,yes
+brain_tumor_dataset/yes/Y59.JPG,yes
+brain_tumor_dataset/yes/Y71.JPG,yes
+brain_tumor_dataset/yes/Y65.JPG,yes
+brain_tumor_dataset/yes/Y70.jpg,yes
+brain_tumor_dataset/yes/Y58.JPG,yes
+brain_tumor_dataset/yes/Y160.JPG,yes
+brain_tumor_dataset/yes/Y148.JPG,yes
+brain_tumor_dataset/yes/Y164.JPG,yes
+brain_tumor_dataset/yes/Y170.JPG,yes
+brain_tumor_dataset/yes/Y158.JPG,yes
+brain_tumor_dataset/yes/Y9.jpg,yes
+brain_tumor_dataset/yes/Y74.jpg,yes
+brain_tumor_dataset/yes/Y60.jpg,yes
+brain_tumor_dataset/yes/Y49.JPG,yes
+brain_tumor_dataset/yes/Y61.jpg,yes
+brain_tumor_dataset/yes/Y75.JPG,yes
+brain_tumor_dataset/yes/Y8.jpg,yes
+brain_tumor_dataset/yes/Y159.JPG,yes
+brain_tumor_dataset/yes/Y165.JPG,yes
+brain_tumor_dataset/yes/Y167.JPG,yes
+brain_tumor_dataset/yes/Y77.jpg,yes
+brain_tumor_dataset/yes/Y76.jpg,yes
+brain_tumor_dataset/yes/Y62.jpg,yes
+brain_tumor_dataset/yes/Y89.JPG,yes
+brain_tumor_dataset/yes/Y166.JPG,yes
