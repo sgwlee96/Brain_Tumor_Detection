@@ -1,0 +1,2 @@
+Model Name,Regularization,Balancer,Train Accuracy,Train Loss,Valid Accuracy,Valid Loss,Test Accuracy,Test Loss
+Xception,None,None,1.0,3.2518149964744225e-05,0.9512194991111755,0.6879549622535706,0.8627451062202454,1.1066076755523682
