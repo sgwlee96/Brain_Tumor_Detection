@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 
 # Load the trained model
-model = tf.keras.models.load_model('../h5/Xception_BT.h5')
+model = tf.keras.models.load_model('h5\Xception_BT.h5')
 
 # Define classes
 classes = ['No Tumor', 'Tumor']
