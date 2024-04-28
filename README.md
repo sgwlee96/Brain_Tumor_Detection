@@ -1,4 +1,5 @@
-Brain Tumor Detection with Xception Deep Learning Model
+##Brain Tumor Detection with Xception Deep Learning Model
+
 This project aims to detect brain tumors using deep learning techniques, specifically leveraging the Xception architecture. Brain tumor detection is a critical task in medical imaging analysis, facilitating early diagnosis and treatment planning for patients.
 
 Overview
