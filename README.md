@@ -1,10 +1,9 @@
 # Brain Tumor Detection with Xception Deep Learning Model
 
-This project aims to detect brain tumors using deep learning techniques, specifically leveraging the Xception architecture. Brain tumor detection is a critical task in medical imaging analysis, facilitating early diagnosis and treatment planning for patients.
 
 ## Overview
 
-Brain tumors can pose significant health risks and early detection plays a crucial role in ensuring timely intervention and treatment. Deep learning models, with their ability to learn complex patterns from medical images, offer promising solutions for automating the detection process.
+
 
 ## Approach
 
@@ -18,10 +17,10 @@ Cited from https://www.researchgate.net/figure/Proposed-structure-of-Xception-ne
 ## Dataset
 
 The dataset is used from various sources in kaggle. 
-The dataset contains
--------------------------------------------------------
-Number of Brain Tumor images for positive respones: 155
-Percentage:  61.3%
-Number of Brain Tumor images for negative respones: 98
-Percentage:  38.7%
--------------------------------------------------------
+The dataset contains 155 images for positive brain tumor images and 98 images for negative brain tumor images. The images are randomly chosen from various sources and I intentionally did not use sufficient number of images because in real world, it is hard to get enough datasets of patients in health care field. 
+
+The below images are random samples of positive and negative brain tumor images used for training. 
+
+![image](https://github.com/sgwlee96/Brain_Tumor_Detection/assets/82964002/2bb41130-8c4a-48ad-b3fa-2f4fc59ed7d2)
+
+
