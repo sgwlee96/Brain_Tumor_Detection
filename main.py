@@ -2,17 +2,17 @@ import streamlit as st
 import tensorflow as tf
 from PIL import Image
 import numpy as np
-import path
-import sys
+# import path
+# import sys
 
 
-dir = path.Path(__file__).abspath()
-sys.path.append(dir.parent.parent)
+# dir = path.Path(__file__).abspath()
+# sys.path.append(dir.parent.parent)
 
 # load model
-path_to_model = './h5/Xception_BT.h5'
+# path_to_model = './h5/Xception_BT.h5'
 # Load the trained model
-model = tf.keras.models.load_model(path_to_model)
+model = tf.keras.models.load_model('Xception_BT.h5')
 
 # Define classes
 classes = ['No Tumor', 'Tumor']
